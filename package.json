@@ -1,0 +1,24 @@
+{
+  "name": "blackjack",
+  "version": "0.0.0",
+  "description": "Blackjack Technical Challenge from Pickatale",
+  "main": "blackjack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Clayton Suares"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "config": "^3.3.7",
+    "jest": "^28.1.3",
+    "prompt": "^1.3.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "babel-jest": "^28.1.3"
+  }
+}
