@@ -1,1 +1,4 @@
-
+{
+  "shuffle_url": "https://pickatale-backend-case.herokuapp.com/shuffle",
+  "player2name": "Bob"
+}
