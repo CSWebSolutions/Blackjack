@@ -2,6 +2,10 @@
 
 ## Author: Clayton Suares
 
+### Environment
+
+This solution requires NodeJS and NPM.
+
 ### Set up
 
 From the solution root folder, in your terminal, run `npm i`
@@ -12,7 +16,7 @@ This will ensure you have the correct versions and packages for this solution.
 
 Run the application from the solution root folder in your terminal using `node blackjack.js`
 
-Run the tests from the solution root rolder in your terminal using `npm run test`
+Run the unit tests from the solution root rolder in your terminal using `npm run test`
 
 ### Alternative Code & To-Dos
 
