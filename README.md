@@ -18,7 +18,7 @@ Run the application from the solution root folder in your terminal using `node b
 
 Run the unit tests from the solution root rolder in your terminal using `npm run test`
 
-### Alternative Code & To-Dos
+### Alternative Code & Improvements
 
 I wrote an additional input section to get a player name. Since the requiremetns asked for a "HTTP service", I felt this did not meet these requirements, so I removed it.
 
@@ -48,7 +48,7 @@ function onErr(err) {
     return 1;
 }
 ```
-Other To-Dos include:
+Other Improvements include:
 
 * Better error handling
 * Integration tests for playBlackjack method
