@@ -16,7 +16,7 @@ Run the tests from the solution root rolder in your terminal using `npm run test
 
 ### Alternative Code & To-Dos
 
-I wrote an additional input section, which I removed after reviewing the requirements, to get a player name. Since the requiremetns asked for a "HTTP service", I felt this did not meet these requirements.
+I wrote an additional input section to get a player name. Since the requiremetns asked for a "HTTP service", I felt this did not meet these requirements, so I removed it.
 
 ```Javascript
 const prompt = require('prompt');
