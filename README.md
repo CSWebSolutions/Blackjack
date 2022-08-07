@@ -1,4 +1,4 @@
-# Blackjack Technical Challenge for Pickatale
+# Blackjack Technical Challenge
 
 ## Author: Clayton Suares
 
